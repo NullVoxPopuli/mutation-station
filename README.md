@@ -14,3 +14,8 @@ have docker and docker-compose installed.
 ```
 ./docko dev
 ```
+
+### Required env vars
+
+ - GITHUB_CLIENT_ID
+ - GITHUB_CLIENT_SECRET
