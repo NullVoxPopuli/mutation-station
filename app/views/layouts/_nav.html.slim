@@ -18,6 +18,6 @@ nav.navbar.navbar-default
           li
             = link_to "Log out", destroy_user_session_path, method: :delete
         - else
-          = link_to user_omniauth_authorize_path(:github), class: "btn btn-default navbar-btn" do
+          = link_to user_github_omniauth_authorize_path, class: "btn btn-default navbar-btn" do
             = icon("github")
             |  Sign in with Github

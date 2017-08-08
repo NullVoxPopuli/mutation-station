@@ -7,7 +7,7 @@
       ' We're good at breaking things. In fact, our research indicates that
       ' we'll be able to break 99.991234% of your tests. Give us a shot. Please?
     p
-      = link_to user_omniauth_authorize_path(:github), class: "btn sign-in btn-primary btn-lg" do
+      = link_to user_github_omniauth_authorize_path, class: "btn sign-in btn-primary btn-lg" do
         i.fa.fa-github
         |   Sign in with Github
     p
