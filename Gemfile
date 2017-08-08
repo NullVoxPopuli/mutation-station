@@ -9,7 +9,7 @@ end
 
 ruby '2.2.3'
 
-gem 'rails', '4.2.4'
+gem 'rails', '4.2.9'
 gem 'pg'
 gem 'bootstrap-sass', '~> 3.3.5'
 gem 'bootswatch-rails'
