@@ -23,7 +23,7 @@ gem 'jbuilder', '~> 2.0'
 
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'devise'
-gem 'high_voltage', '~> 2.4.0'
+gem 'high_voltage', '~> 3.0.0'
 gem 'faker'
 gem 'omniauth-github'
 gem 'delayed_job_active_record'
