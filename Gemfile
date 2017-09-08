@@ -9,7 +9,7 @@ end
 
 ruby '2.4.1'
 
-gem 'rails', '~> 4'
+gem 'rails', '~> 5'
 gem 'pg'
 
 gem 'bootstrap-sass', '~> 3.3.5'
