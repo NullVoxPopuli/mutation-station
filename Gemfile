@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 source 'https://rails-assets.org' do
   gem 'rails-assets-typehead.js'
-  gem 'rails-assets-select2', '~>3.5.4'
+  gem 'rails-assets-select2', '~> 4.0.5'
   gem 'rails-assets-pusher'
   gem 'rails-assets-toastr'
 end
