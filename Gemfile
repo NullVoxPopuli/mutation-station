@@ -30,7 +30,7 @@ gem 'delayed_job_active_record'
 
 gem 'puma'
 
-gem 'octokit', '~> 4.0'
+gem 'octokit', '~> 4.8'
 gem 'slim'
 
 gem 'pusher'
