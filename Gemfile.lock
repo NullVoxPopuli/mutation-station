@@ -183,7 +183,7 @@ GEM
       railties (= 4.2.9)
       sprockets-rails
     rails-assets-jquery (2.2.4)
-    rails-assets-pusher (4.1.0)
+    rails-assets-pusher (4.2.2)
     rails-assets-select2 (3.5.4)
       rails-assets-jquery (>= 1.7.1)
     rails-assets-toastr (2.1.3)
